@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#5d0b72&height=120&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Islane+Morais.;Desenvolvedora+Backend+em+formação.;Estudante+de+Python,+HTML,+CSS+e+JavaScript.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Islane+Cavalcante.;Desenvolvedora+Backend+em+formação.;Estudante+de+Python,+HTML,+CSS+e+JavaScript.)
 
 <p align="center" style="font-size: 1.5rem; max-width: 800px; line-height: 1.8; color: #5d0b72; font-family: 'Segoe UI', sans-serif;">
   <strong style="font-size: 1.8rem;">- Sou uma desenvolvedora backend em formação</strong><br>
